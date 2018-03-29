@@ -1,0 +1,7 @@
+*.a
+*.so
+*.swp
+
+./CMakeFiles/
+
+./CMakeCache.txt

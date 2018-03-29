@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libgo.a  CMakeFiles/go.dir/go/GoBitBlock.cpp.o CMakeFiles/go.dir/go/GoBitBoard.cpp.o CMakeFiles/go.dir/go/GoBitBoardTest.cpp.o CMakeFiles/go.dir/go/GoBoard.cpp.o CMakeFiles/go.dir/go/GoGtpCommandUtil.cpp.o CMakeFiles/go.dir/go/GoGtpEngine.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libgo.a

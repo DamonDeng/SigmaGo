@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libsmartgame.a  CMakeFiles/smartgame.dir/smartgame/SgDebug.cpp.o CMakeFiles/smartgame.dir/smartgame/SgException.cpp.o CMakeFiles/smartgame.dir/smartgame/SgGtpCommands.cpp.o CMakeFiles/smartgame.dir/smartgame/SgRandom.cpp.o CMakeFiles/smartgame.dir/smartgame/SgSystem.cpp.o CMakeFiles/smartgame.dir/smartgame/SgTime.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libsmartgame.a
